@@ -2,4 +2,6 @@
 
 Self-study real analysis to build foundations for graduate-level probability and statistics.
 
-Reference: Bartle, Robert Gardner, and Donald R. Sherbert. Introduction to Real Analysis. Content Technologies, 2014.
+References:
+_How to Prove It: A Structured Approach_ by Daniel Velleman (What it covers: Basic proof strategies, logic, relations, functions, induction, sets. Beginner friendly!)
+_Introduction to Real Analysis_ by Bartle, Gardner, and Sherbert (Main reference)
